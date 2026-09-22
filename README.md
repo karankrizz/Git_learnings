@@ -1,1 +1,2 @@
-# Git_learnings
+***GIT AND GITHUB UNDERSTANDINGS***
+---
